@@ -1,0 +1,11 @@
+PySide6
+PySide6-Fluent-Widgets
+psutil
+GPUtil
+openai
+loguru
+send2trash
+nuitka
+WMI
+pywin32
+setuptools
